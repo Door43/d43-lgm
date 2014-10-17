@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lgm:home|Door43 (lgm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lgm|d43-lgm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgm/archive/master.zip|d43-lgm.zip]]
+
+**Recent Changes**
+{{changes>ns = lgm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lgm|Ethnologue data]]
+
